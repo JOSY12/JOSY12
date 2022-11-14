@@ -1,32 +1,20 @@
-### Hi there 👋
+ 
+ <img  align="center" src=https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif alt="hello"> </img>
 
-<!--
-**JOSY12/JOSY12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- ![ElmoHelloGIF](https://user-images.githubusercontent.com/66582514/201776993-9bd6457a-1eea-408a-97ae-b6e5e457d21b.gif)
+ 
 
 
-hello i am josmer a full stack web developer from colombia to 🌍
-- 🔭 I’m currently working on ...
-  
-
-![skills](https://user-images.githubusercontent.com/66582514/201776533-0914b910-ff60-44b3-8bc6-77ba21ef08fa.gif)
-
-- 🌱 I’m currently learning ...
- ![learning](https://user-images.githubusercontent.com/66582514/201776427-91673e20-30c2-4f90-b3da-d7beedc1a4f7.gif)
+<h2 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas:
+</h2>
 
 
-- 👯 I’m looking to collaborate on ...
+![Yellow Motivational Web Developer Facebook Cover](https://user-images.githubusercontent.com/66582514/201788347-fa0602e7-fb6d-4de4-bbe9-b0b9021169ee.jpg)
 
-- 🤔 I’m looking for help with ...
+![2](https://user-images.githubusercontent.com/66582514/201779524-773dac4e-5f41-4f04-a058-9d4f18e15ecf.jpg)
+
+ 
+![3](https://user-images.githubusercontent.com/66582514/201779515-aca24376-ff0f-47d2-a0a7-0904acdb5e2e.jpg)
 
 
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
--->
+ 

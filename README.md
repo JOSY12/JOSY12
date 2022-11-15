@@ -21,8 +21,12 @@ teconologies
 </span>
 
  
-<!--  <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
-</p> -->
+<h2 align="center">
+proyects📋📌💻
+</h2>
+
+<p  align="center"> 
+ <a href="https://github.com/JOSY12/H-PI-Food" target="_blank">
+  <img src="https://github.com/JOSY12/H-PI-Food/blob/main/client/src/images/chefwhiet.jpg?raw=true"
+       alt="MDN logo" />
+</p> 

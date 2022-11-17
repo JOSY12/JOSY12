@@ -26,7 +26,11 @@ proyects📋📌💻
 </h2>
 
 <p  align="center"> 
- <a href="https://github.com/JOSY12/H-PI-Food" target="_blank">
-  <img src="https://github.com/JOSY12/H-PI-Food/blob/main/client/src/images/chefwhiet.jpg?raw=true"
+ <a  href="https://github.com/JOSY12/H-PI-Food" target="_blank">
+  <img   src="https://github.com/JOSY12/H-PI-Food/blob/main/client/src/images/chefwhiet.jpg?raw=true"
+       alt="MDN logo" />
+  
+  <a   href="https://github.com/JOSY12/SimpleBoostrap" target="_blank">
+  <img   height="400px" src="https://user-images.githubusercontent.com/66582514/202477893-dcd22ba8-b322-4e25-824b-096bf81559ef.png"
        alt="MDN logo" />
 </p> 

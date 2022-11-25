@@ -11,8 +11,7 @@ teconologies
 
 ![2](https://user-images.githubusercontent.com/66582514/201779524-773dac4e-5f41-4f04-a058-9d4f18e15ecf.jpg)
 
-![3](https://user-images.githubusercontent.com/66582514/201779515-aca24376-ff0f-47d2-a0a7-0904acdb5e2e.jpg)
-
+![Yellow Motivational Web Developer Linkedin Banner](https://user-images.githubusercontent.com/66582514/203996064-8d148a44-7f34-4164-a5d0-634a35f06590.jpg)
 
  ## :paperclip: How to contact me:
 <span  >

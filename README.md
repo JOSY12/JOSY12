@@ -32,13 +32,12 @@ proyects📋📌💻
  <a  href="https://github.com/JOSY12/H-PI-Food" target="_blank">
   <img   src="https://github.com/JOSY12/H-PI-Food/blob/main/client/src/images/chefwhiet.jpg?raw=true"
        alt="MDN logo" />
-  
+ 
   <a   href="https://github.com/JOSY12/SimpleBoostrap" target="_blank">
   <img   height="400px" src="https://user-images.githubusercontent.com/66582514/202477893-dcd22ba8-b322-4e25-824b-096bf81559ef.png"
-       alt="MDN logo" />
- 
+       alt="boostraplogo" />
    
-     <a   href="https://h-couture-odxfhjkfia-uc.a.run.app/" target="_blank">
+  <a   href="https://h-couture-odxfhjkfia-uc.a.run.app" target="_blank">
   <img   height="400px" src="https://github.com/JOSY12/E-comersefrontend/blob/main/src/images/land.jpg?raw=true"
-       alt="MDN logo" />
+       alt="hlogo" />
 </p> 

@@ -4,10 +4,10 @@
 Full Stack Developer :heart: from colombia to :earth_americas:
 </h2>
 <h2 align="center">
-
-</h2>
-CV <a  href="https://github.com/JOSY12/H-PI-Food](https://drive.google.com/file/d/1lcFLwx2tTQahjadJlcJL1ZtgWfFmjVs4/view?usp=share_link" target="_blank">
+CV <a href="https://drive.google.com/file/d/1lcFLwx2tTQahjadJlcJL1ZtgWfFmjVs4/view?usp=share_link" target="_blank">
  
+</h2>
+
 ![perfilbio](https://user-images.githubusercontent.com/66582514/201793056-885004c5-4a89-422a-b14b-5102e3389df9.png)
 <h2 align="center">
 teconologies

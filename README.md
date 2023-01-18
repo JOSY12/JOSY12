@@ -4,7 +4,7 @@
 Full Stack Developer :heart: from colombia to :earth_americas:
 </h2>
 <h2 align="center">
-<a href="https://drive.google.com/file/d/1cwSS9XLI894yAt4S9K5YfGaJlWV_ezZA/view?usp=share_link" target="_blank">Resume(cv)</a>
+<a href="https://drive.google.com/file/d/1paVF66Hop7m8U8EaE522dEu2BoTvey3-/view?usp=share_link" target="_blank">Resume(cv)</a>
  
 </h2>
 

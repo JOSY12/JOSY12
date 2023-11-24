@@ -21,6 +21,8 @@ teconologies
 <span  >
 <a href="https://www.linkedin.com/in/josmer-bertel-calle-12569a236/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 <a href="mailto:josmer1997@hotmail.es" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<P>PORTFOLIO</P>
+ <a href="https://josmerweb.netlify.app/" >
 </span>
 
  

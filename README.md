@@ -14,9 +14,9 @@ teconologies
 </h2>
 
 ![2](https://user-images.githubusercontent.com/66582514/201779524-773dac4e-5f41-4f04-a058-9d4f18e15ecf.jpg)
+![fondo general](https://github.com/JOSY12/JOSY12/assets/66582514/41954704-3791-41bc-9905-9f2f30fe0334)
 
-![Yellow Motivational Web Developer Linkedin Banner](https://user-images.githubusercontent.com/66582514/203996064-8d148a44-7f34-4164-a5d0-634a35f06590.jpg)
-
+ 
  ## :paperclip: How to contact me:
 <span  >
 <a href="https://www.linkedin.com/in/josmer-bertel-calle-12569a236/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;

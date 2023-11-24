@@ -35,7 +35,7 @@ proyects📋📌💻
 
 <p  align="center"> 
  <a  href="https://ticktacktask.vercel.app/login" target="_blank">
-  <img   src="https://josmerweb.netlify.app/logo-color.png"
+  <img height="400px" src="https://josmerweb.netlify.app/logo-color.png"
        alt="MDN logo" />
  
   <a   href="https://github.com/JOSY12/SimpleBoostrap" target="_blank">

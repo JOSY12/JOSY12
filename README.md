@@ -5,9 +5,9 @@ Full Stack Developer :heart: from colombia to :earth_americas:
 </h2>
 <h2 align="center">
 CV-Resumen
- [ENG  ](https://github.com/JOSY12/JOSY12/files/13461452/engResume.cv-JOSMER.BERTEL.CALLE.pdf)
+ [ENG](https://github.com/JOSY12/JOSY12/files/13461452/engResume.cv-JOSMER.BERTEL.CALLE.pdf)
 
- [ESP ](https://github.com/JOSY12/JOSY12/files/13461458/espResume.cv-JOSMER.BERTEL.CALLE.pdf)
+ [ESP](https://github.com/JOSY12/JOSY12/files/13461458/espResume.cv-JOSMER.BERTEL.CALLE.pdf)
 
 </h2>
 

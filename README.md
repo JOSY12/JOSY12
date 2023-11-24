@@ -4,6 +4,9 @@
 Full Stack Developer :heart: from colombia to :earth_americas:
 </h2>
 <h2 align="center">
+
+ [engResume cv-JOSMER BERTEL CALLE.pdf](https://github.com/JOSY12/JOSY12/files/13461337/engResume.cv-JOSMER.BERTEL.CALLE.pdf)
+
 <a href="https://drive.google.com/file/d/1paVF66Hop7m8U8EaE522dEu2BoTvey3-/view?usp=share_link" target="_blank">Resume(cv)</a>
  
 </h2>
@@ -13,8 +16,7 @@ Full Stack Developer :heart: from colombia to :earth_americas:
 teconologies
 </h2>
 
-![2](https://user-images.githubusercontent.com/66582514/201779524-773dac4e-5f41-4f04-a058-9d4f18e15ecf.jpg)
-![fondo general](https://github.com/JOSY12/JOSY12/assets/66582514/41954704-3791-41bc-9905-9f2f30fe0334)
+ ![fondo general](https://github.com/JOSY12/JOSY12/assets/66582514/41954704-3791-41bc-9905-9f2f30fe0334)
 
  
  ## :paperclip: How to contact me:

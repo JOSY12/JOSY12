@@ -47,5 +47,5 @@ proyects📋📌💻
  
  <a   href="https://retrotienda.vercel.app/" target="_blank">
   <img   height="400px" src="https://github.com/JOSY12/Ecomerse/blob/main/cliente/src/logos/logo-color.png?raw=true"
-       alt="boostraplogo"
+       alt="retrikigi"
 </p> 

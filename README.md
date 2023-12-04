@@ -43,10 +43,10 @@ proyects📋📌💻
  
   <a   href="https://github.com/JOSY12/SimpleBoostrap" target="_blank">
   <img   height="400px" src="https://user-images.githubusercontent.com/66582514/202477893-dcd22ba8-b322-4e25-824b-096bf81559ef.png"
-       alt="boostraplogo"
+       alt="boostraplogo"/>
  
  <a   href="https://retrotienda.vercel.app/" target="_blank">
   retrotienda
-<!--   <img   height="400px" src="https://github.com/JOSY12/Ecomerse/blob/main/cliente/src/logos/logo-color.png?raw=true"
-       alt="retrikigi" -->
+  <img   height="400px" src="https://github.com/JOSY12/Ecomerse/blob/main/cliente/src/logos/logo-color.png?raw=true"
+       alt="retrikigi"/>
 </p> 

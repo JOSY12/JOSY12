@@ -14,7 +14,13 @@ CV-Resumen
  
 </h2>
 </h2>
+ ## :paperclip: How to contact me:
+<span  >
+<a href="https://www.linkedin.com/in/josmer-bertel-calle-12569a236/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:josmer1997@hotmail.es" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+ 
 
+</span>
 ![perfilbio](https://user-images.githubusercontent.com/66582514/201793056-885004c5-4a89-422a-b14b-5102e3389df9.png)
 <h2 align="center">
 teconologies
@@ -23,13 +29,7 @@ teconologies
 ![fondo general](https://github.com/JOSY12/JOSY12/assets/66582514/27f8df6a-747d-479f-8efb-3ea779f660ce)
 
  
- ## :paperclip: How to contact me:
-<span  >
-<a href="https://www.linkedin.com/in/josmer-bertel-calle-12569a236/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:josmer1997@hotmail.es" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
- 
 
-</span>
 
  <!--
 <h2 align="center">

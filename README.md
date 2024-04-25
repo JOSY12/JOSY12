@@ -13,7 +13,6 @@ CV-Resumen
 <a href="https://josmerweb.netlify.app/" target="_blank">PORTFOLIO</a>
  
 </h2>
-</h2>
  ## :paperclip: How to contact me:
 <span  >
 <a href="https://www.linkedin.com/in/josmer-bertel-calle-12569a236/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
@@ -21,6 +20,8 @@ CV-Resumen
  
 
 </span>
+</h2>
+
 ![perfilbio](https://user-images.githubusercontent.com/66582514/201793056-885004c5-4a89-422a-b14b-5102e3389df9.png)
 <h2 align="center">
 teconologies

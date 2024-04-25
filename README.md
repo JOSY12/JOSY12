@@ -31,7 +31,7 @@ teconologies
 
 </span>
 
- 
+ <!--
 <h2 align="center">
 proyects📋📌💻
 </h2>
@@ -48,4 +48,4 @@ proyects📋📌💻
  <a   href="https://retrotienda.vercel.app/" target="_blank">
   <img   height="400px" src="https://github.com/JOSY12/Ecomerse/blob/main/cliente/src/logos/logo-color.png?raw=true"
        alt="retrikigi"/>
-</p> 
+ </p>  -->

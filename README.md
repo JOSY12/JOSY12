@@ -24,7 +24,7 @@ CV-Resumen
 
 ![perfilbio](https://user-images.githubusercontent.com/66582514/201793056-885004c5-4a89-422a-b14b-5102e3389df9.png)
 <h2 align="center">
-teconologies
+
 </h2>
 
 

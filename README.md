@@ -24,12 +24,11 @@ CV-Resumen
 
 ![perfilbio](https://user-images.githubusercontent.com/66582514/201793056-885004c5-4a89-422a-b14b-5102e3389df9.png)
 <h2 align="center">
-![fondo general](https://github.com/user-attachments/assets/9d3184a1-0a9c-42bd-abc7-956b7df81f01)
-
+tecnologies
 </h2>
 
+ ![fondo general](https://github.com/user-attachments/assets/8a081666-1b3b-48b0-9d4f-ff4cb9d813ff)
 
- 
 
 
  <!--

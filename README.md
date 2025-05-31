@@ -27,7 +27,6 @@ CV-Resumen
 teconologies
 </h2>
 
-![fondo general](https://github.com/JOSY12/JOSY12/assets/66582514/27f8df6a-747d-479f-8efb-3ea779f660ce)
 
  
 
